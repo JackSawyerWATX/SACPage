@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+   <script src="script.js" defer></script>
+   <title>SAC</title>
+</head>
+
+<body>
+   <div class="container">
+      <div class="topNav">
+         <div class="header">
+            <img src="images/SAC.png" class="SAC " alt="SAC"
+               style="height: 260px; width: 200px; display:block; margin-left:auto; margin-right:auto; width: 20%">
+            <h1 class="title" style="text-align:center;">Strategic Air Command</h1>
+         </div>
+      </div>
+
+         <!-- <div class="search">
+            <input type="search" placeholder="Search Here:" class="searchbar">
+            <button type="submit" class="searchButton"><img src="images/Reticle.jpg" alt="searchButton"
+                  style="height: 13px; width: 20px;"></button>
+               </div> -->
+
+               <div class="topnav">
+                  <a class="active" href="#home">Home</a>
+                  <a href="#combataircraft">Combat Aircraft</a>
+                  <a href="#supportaircraft">Support Aircraft</a>
+                  <a href="#missiles">Missiles</a>
+                  <a href="#groundsystems">Ground Systems</a>
+                  <a href="#SACairbases">SAC Air Bases</a>
+                  <input id="searchbar" onkeyup="search_element()" type="text" name="search" placeholder="Search..">
+                  <button type="submit" class="searchButton" alt="searchButton">Go</button>
+                </div>
+
+                <!-- this entire page has to be converted to an ordered list <ol></ol> in order to be recallable from the searchbar -->
+
+            <div class="aircraft1">
+               <h2>Combat Aircraft</h2>
+               <div>
+                  <h4>A-26 Invader (RB-26)</h4>
+                  <img id="A26" src="images/assets/Aircraft/combat/A26.jpg" alt="A26" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-1 Lancer</h4>
+                  <img id="B1" src="images/assets/Aircraft/combat/B1.jpg" alt="B1" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-17 Flying Fortress (RB-17G)</h4>
+                  <img id="B17" src="images/assets/Aircraft/combat/B17.jpg" alt="B17" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-29 Superfortress</h4>
+                  <img id="B29" src="images/assets/Aircraft/combat/B29.jpg" alt="B29" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-36 Peacemaker</h4>
+                  <img id="B36" src="images/assets/Aircraft/combat/B36.jpg" alt="B36" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-45 Tornado</h4>
+                  <img id="B45" src="images/assets/Aircraft/combat/B45.jpg" alt="B45" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-47 Stratojet</h4>
+                  <img id="B47" src="images/assets/Aircraft/combat/B47.jpg" alt="B47" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-50 Superfortress</h4>
+                  <img id="B50" src="images/assets/Aircraft/combat/B50.jpg" alt="B50" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-52 Stratofortress</h4>
+                  <img id="B52" src="images/assets/Aircraft/combat/B52.jpg" alt="B52" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-57 Canberra</h4>
+                  <img id="B57" src="images/assets/Aircraft/combat/B57.jpg" alt="B57" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-58 Hustler</h4>
+                  <img id="B58" src="images/assets/Aircraft/combat/B58.jpg" alt="B58" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>C-119 Flying Boxcar</h4>
+                  <img id="C119" src="images/assets/Aircraft/combat/C119.jpg" alt="C119"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>DC-130 Hercules</h4>
+                  <img id="DC130" src="images/assets/Aircraft/combat/DC130.jpg" alt="DC130"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>EC-135 Looking Glass</h4>
+                  <img id="EC135" src="images/assets/Aircraft/combat/EC135.jpg" alt="EC135"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>F-2 Expeditor (F=Fotorecon; C-45, & RC-45)</h4>
+                  <img id="F2" src="images/assets/Aircraft/combat/F2.jpg" alt="F2" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>F-6 Mustang (F=Fotorecon; P-51, F-51 Mustang)</h4>
+                  <img id="F6" src="images/assets/Aircraft/combat/P51.jpg" alt="F6" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>F-9 Flying Fortress (F=Fotorecon; B-17F/G)</h4>
+                  <img id="F9" src="images/assets/Aircraft/combat/F9.jpg" alt="F9" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>F-13 Superfortress (F=Fotorecon; B-29A)</h4>
+                  <img id="F13" src="images/assets/Aircraft/combat/F13.jpg" alt="F13" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>P-47 Thunderbolt (F-47)</h4>
+                  <img id="F47" src="images/assets/Aircraft/combat/P47.jpg" alt="F47" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>F-80 Shooting Star</h4>
+                  <img id="F80" src="images/assets/Aircraft/combat/F80.jpg" alt="F80" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>F-82 Twin Mustang</h4>
+                  <img id="F82" src="images/assets/Aircraft/combat/F82.jpg" alt="F82" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>F-84 Thunderjet</h4>
+                  <img id="F84" src="images/assets/Aircraft/combat/F84.jpg" alt="F84" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>F-86 Sabre</h4>
+                  <img id="F86" src="images/assets/Aircraft/combat/F86.jpg" alt="F86" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>F-102 Delta Dagger</h4>
+                  <img id="F102" src="images/assets/Aircraft/combat/F102.jpg" alt="F102"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>FB-111 Aardvark</h4>
+                  <img id="FB111" src="images/assets/Aircraft/combat/FB111.jpg" alt="FB111"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>KB-29</h4>
+                  <img id="KB29" src="images/assets/Aircraft/combat/KB29.jpg" alt="KB29"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>KC-10 Extender</h4>
+                  <img id="KC10" src="images/assets/Aircraft/combat/KC10.jpg" alt="KC10"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>KC-97 Stratofreighter SAC</h4>
+                  <img id="KC97" src="images/assets/Aircraft/combat/KC97.jpg" alt="KC97"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>KC-135 Stratotanker SAC</h4>
+                  <img id="KC135" src="images/assets/Aircraft/combat/KC135.jpg" alt="KC135"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>RC-135</h4>
+                  <img id="RC135" src="images/assets/Aircraft/combat/RC135.jpg" alt="RC135"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>SR-71 Blackbird</h4>
+                  <img id="SR71" src="images/assets/Aircraft/combat/SR71.jpg" alt="SR71"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>U-2 Dragon Lady (TR-1)</h4>
+                  <img id="U2" src="images/assets/Aircraft/combat/U2.jpg" alt="U2" style="height: 20%; width: 30%;">
+               </div>
+            </div>
+
+            <div class="aircraft2">
+               <h2>Support Aircraft</h2>
+               <div>
+                  <h4>UC-45 Expeditor (C-45)</h4>
+                  <img id="UC45" src="images/assets/Aircraft/support/UC45.jpg" alt="UC45"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AT-11 Kansan</h4>
+                  <img id="AT11" src="images/assets/Aircraft/support/AT11.jpg" alt="AT11"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>B-26 Invader</h4>
+                  <img id="B26" src="images/assets/Aircraft/support/B26.jpg" alt="B26" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>C-47 Skytrain</h4>
+                  <img id="C47" src="images/assets/Aircraft/support/C47.jpg" alt="C47" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>C-54 Skymaster</h4>
+                  <img id="C54" src="images/assets/Aircraft/support/C54.jpg" alt="C54" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>C-82 Packet</h4>
+                  <img id="C82" src="images/assets/Aircraft/support/C82.jpg" alt="C82" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>C-97 Stratofreighter</h4>
+                  <img id="C97" src="images/assets/Aircraft/support/C97.jpg" alt="C97" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>C-118 Liftmaster</h4>
+                  <img id="C118" src="images/assets/Aircraft/support/C118.jpg" alt="C118"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>C-124 Globemaster II</h4>
+                  <img id="C124" src="images/assets/Aircraft/support/C124.jpg" alt="C124"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>C-131 Samaritan</h4>
+                  <img id="C131" src="images/assets/Aircraft/support/C131.jpg" alt="C131"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>C-135 Stratolifter</h4>
+                  <img id="C135" src="images/assets/Aircraft/support/C135.jpg" alt="C135"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>CH-3 Sea King SAC</h4>
+                  <img id="CH3" src="images/assets/Aircraft/support/CH3.jpg" alt="CH3" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>HU-16 Albatross SAC</h4>
+                  <img id="HU16" src="images/assets/Aircraft/support/HU16.jpg" alt="HU16"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>L-4 Grasshopper</h4>
+                  <img id="L4" src="images/assets/Aircraft/support/L4.jpg" alt="L4" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>L-5 Sentinel</h4>
+                  <img id="L5" src="images/assets/Aircraft/support/L5.jpg" alt="L5" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>L-13 Grasshopper</h4>
+                  <img id="L13" src="images/assets/Aircraft/support/L13.jpg" alt="L13" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>PBY Catalina</h4>
+                  <img id="PBY" src="images/assets/Aircraft/support/PBY.jpg" alt="PBY" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>T-38 Talon</h4>
+                  <img id="T38" src="images/assets/Aircraft/support/T38.jpg" alt="T38" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>UH-1 Huey</h4>
+                  <img id="UH1" src="images/assets/Aircraft/support/UH1.jpg" alt="UH1" style="height: 20%; width: 30%;">
+               </div>
+            </div>
+
+
+            <div class="missiles">
+               <h2>Missiles</h2>
+               <div>
+                  <h4>ADM-20 Quail</h4>
+                  <img id="ADM20" src="images/assets/missiles/ADM20.jpg" alt="ADM20" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AGM-28 Hound Dog</h4>
+                  <img id="AGM28" src="images/assets/missiles/AGM28.jpg" alt="AGM28" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AGM-69 SRAM</h4>
+                  <img id="AGM69" src="images/assets/missiles/AGM69.jpg" alt="AGM69" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AGM-84 Harpoon</h4>
+                  <img id="AGM84" src="images/assets/missiles/AGM84.jpg" alt="AGM84" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AGM-86 Air Launched Cruise Missile</h4>
+                  <img id="AGM86" src="images/assets/missiles/AGM86.jpg" alt="AGM86" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AGM-129 Advanced Cruise Missile</h4>
+                  <img id="ADM129" src="images/assets/missiles/ADM129.jpg" alt="ADM129" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>HGM-16 Atlas</h4>
+                  <img id="HGM16" src="images/assets/missiles/HGM16.jpg" alt="HGM16" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>HGM-25A Titan I</h4>
+                  <img id="HGM25A" src="images/assets/missiles/HGM25A.jpg" alt="HGM25A" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>LGM-25 Titan II</h4>
+                  <img id="LGM25" src="images/assets/missiles/LGM25.jpg" alt="LGM25" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>LGM-30A/B Minuteman I</h4>
+                  <img id="LGM30AB" src="images/assets/missiles/LGM30AB.jpg" alt="LGM30AB"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>LGM-30F Minuteman II</h4>
+                  <img id="LGM30F" src="images/assets/missiles/LGM30F.jpg" alt="LGM30F" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>LGM-30G Minuteman III</h4>
+                  <img id="LGM30G" src="images/assets/missiles/LGM30G.jpg" alt="LGM30G" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>LGM-118A Peacekeeper</h4>
+                  <img id="LGM118A" src="images/assets/missiles/LGM118A.jpg" alt="LGM118A"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>SM-62 Snark</h4>
+                  <img id="SM62" src="images/assets/missiles/SM62.jpg" alt="SM62" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>GM-17A Thor</h4>
+                  <img id="GM17A" src="images/assets/missiles/GM17A.jpg" alt="GM17A" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>PGM-19A Jupiter</h4>
+                  <img id="PGM19A" src="images/assets/missiles/PGM19A.jpg" alt="PGM19A" style="height: 20%; width: 30%;">
+               </div>
+            </div>
+
+            <div class="systems">
+               <h2>Ground Systems</h2>
+               <div>
+                  <h4>Athena computer</h4>
+                  <img id="athena" src="images/assets/computers/athena.jpg" alt="athena" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AN/MPS-9</h4>
+                  <img id="ANMPS9" src="images/assets/computers/ANMPS9.jpg" alt="ANMPS9" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AN/MSQ-1</h4>
+                  <img id="ANMSQ1" src="images/assets/computers/ANMSQ1.jpg" alt="ANMSQ1" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AN/MSQ-2</h4>
+                  <img id="ANMSQ2" src="images/assets/computers/ANMSQ2.jpg" alt="ANMSQ2" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AN/MSQ-35</h4>
+                  <img id="ANMSQ35" src="images/assets/computers/ANMSQ35.jpg" alt="ANMSQ35" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AN/MSQ-77</h4>
+                  <img id="ANMSQ77" src="images/assets/computers/ANMSQ77.jpg" alt="ANMSQ77" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AN/MSQ-81</h4>
+                  <img id="ANMSQ81" src="images/assets/computers/ANMSQ81.jpg" alt="ANMSQ81" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AN/MSQ-96</h4>
+                  <img id="ANMSQ96" src="images/assets/computers/ANMSQ96.jpg" alt="ANMSQ96" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>AN/TLQ-11</h4>
+                  <img id="ANTLQ11" src="images/assets/computers/ANTLQ11.jpg" alt="ANTLQ11" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>BMEWS</h4>
+                  <img id="BMEWS" src="images/assets/computers/BMEWS.jpg" alt="BMEWS" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>GWEN</h4>
+                  <img id="GWEN" src="images/assets/computers/GWEN.jpg" alt="GWEN" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <!-- <h4>Train: Big Star (ICBM)</h4>
+                  <img id="BigStar" src="images/assets/computers/BigStar.jpg" alt="BigStar" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <h4>Trains: RBS Express (3)</h4>
+                  <img id="rbsExpress" src="images/assets/computers/rbsExpress.jpg" alt="rbsExpress" style="height: 20%; width: 30%;">
+               </div> -->
+               <div>
+                  <h4>SACCCS</h4>
+                  <img id="SACCCS" src="images/assets/computers/SACCCS.jpg" alt="SACCCS" style="height: 20%; width: 30%;">
+               </div>
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="content">
+               <h1 class="title2" style="text-align:center;">Peace Is Our Profession!</h1>
+               <div class="row1">
+                  <div class="column1">
+                     <!-- <h2 class="discover">United States Air Force</h2> -->
+                     <h2 style="text-align:center;">United States Air Bases<br>under</br>Strategic Air Command</h2>
+                     <!-- <img src="images/USAFa.jpg" class="seal" alt="seal"
+                        style="height: 100px; width: 100px; display:block; margin-left:auto; margin-right:auto; width: 10%"> -->
+
+                  </div>
+
+                  <img src="images/USAFb.jpg" onmouseover="src='images/USAFa.jpg'"
+               onmouseout="src='images/USAFb.jpg'" alt="seal" id="seal" 
+               style="height: 140px; width: 100px; display:block; margin-left:auto; margin-right:auto; width: 10%">
+            <!-- <div class="column2">
+               <img src="images/USAFa.jpg" id="seal" alt="seal">
+               <h2 class="seal">Seal of the United States Air Force<img src="images/USAFa.jpg" class="seal" alt="seal">
+               </h2>
+            </div> -->
+               </div>
+            </div>
+
+            <div class="row2">
+               <div>
+                  <p>Castle Air Force Base, California</p>
+                  <img id="afb" src="images/assets/bases/Castle.jpg" alt="Castle" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Patrick Air Force Base, Florida</p>
+                  <img id="afb" src="images/assets/bases/Patrick.jpg" alt="Patrick" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Cannon Air Force Base, New Mexico</p>
+                  <img id="afb" src="images/assets/bases/Cannon.jpg" alt="Cannon" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Carswell Air Force Base, Texas</p>
+                  <img id="afb" src="images/assets/bases/Carswell.jpg" alt="Carswell" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Davis-Monthan Air Force Base, Arizona</p>
+                  <img id="afb" src="images/assets/bases/Davis.jpg" alt="Davis" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Ellsworth Air Force Base, South Dakota</p>
+                  <img id="afb" src="images/assets/bases/Ellsworth.jpg" alt="Ellsworth"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>MacDill Air Force Base, Florida</p>
+                  <img id="afb" src="images/assets/bases/MacDill.jpg" alt="MacDill" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Mountain Home Air Force Base, Idaho</p>
+                  <img id="afb" src="images/assets/bases/Mountain.jpg" alt="Mountain" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Kirtland Air Force Base, New Mexico</p>
+                  <img id="afb" src="images/assets/bases/Kirtland.jpg" alt="Kirtland" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Loring Air Force Base, Maine</p>
+                  <img id="afb" src="images/assets/bases/Loring.jpg" alt="Loring" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>McGuire Air Force Base, New Jersey</p>
+                  <img id="afb" src="images/assets/bases/McGuire.jpg" alt="McGuire" style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Fairchild Air Force Base, Washington</p>
+                  <img id="afb" src="images/assets/bases/Fairchild.jpg" alt="Fairchild"
+                     style="height: 20%; width: 30%;">
+               </div>
+               <div>
+                  <p>Wendover Air Force Base, Utah</p>
+                  <img id="afb" src="images/assets/bases/Wendover.jpg" alt="Wendover" style="height: 20%; width: 30%;">
+               </div>
+            </div>
+
+            <!-- <div class="popup"> -->
+               <div class="popup">
+                  <img src="images/USAF_Security_Force_Shield.jpg" alt="cookies" style="height: 80px; width: 60px;">
+                  <div class="message">
+                     <p>This site is not endorsed by the United States Department of Defense or the United States Air Force, and by clicking<br> "I Accept"<br> you are
+                     <a href="#">accepting</a> that I can build a pop-up with JavaScript and will be revisiting this text at a later date.</p>
+                  </div>
+                  <button class="accept" onclick="accept()">I Accept</button>
+               </div>
+         
+</body>
+
+</html>

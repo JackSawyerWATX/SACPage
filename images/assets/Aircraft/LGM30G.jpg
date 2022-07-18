@@ -1,0 +1,1467 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <script>
+    var dataLayer = window.dataLayer = window.dataLayer || [];
+
+    var internalPageType = "";
+    if ( internalPageType === "" ) {
+      if ( window.location.pathname.match(/^\/reviews\//) ) {
+        internalPageType = 'review';
+      }
+      else if ( window.location.pathname.match(/^\/car-warranty\//) ) {
+        internalPageType = 'warranty';
+      }
+      else if ( window.location.pathname.match(/^\/rentals\/rv/) ) {
+        internalPageType = 'rv-rental';
+      }
+      else if ( window.location.pathname.match(/^\/cars-101\//) ) {
+        internalPageType = 'info';
+      }
+      else if ( window.location.pathname.match(/^\/cleaning-detailing\//) ) {
+        internalPageType = 'info';
+      }
+      else if ( window.location.pathname.match(/^\/maintenance-repair\//) ) {
+        internalPageType = 'info';
+      }
+      else {
+        internalPageType = 'general';
+      }
+    }
+  </script>
+
+  
+  <!-- Anti-flicker snippet (recommended)  -->
+  <style>.async-hide { opacity: 0 !important} </style>
+  <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+  })(window,document.documentElement,'async-hide','dataLayer',4000, {'GTM-TVFK9PS':true});</script>
+
+  <!-- GTM: Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl+'';f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TVFK9PS');</script>
+  <!-- GTM: End Google Tag Manager -->
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, user-scalable=yes">
+  <meta name="description" content="The Air Force released the images a day after it formally hired Northrop Grumman to build its next ICBMs.">
+  <meta name='ir-site-verification-token' value='-1989257591' />
+  <meta name="author" content="Joseph Trevithick">
+  <meta name="news_keywords" content="nuclear weapons,nuclear deterrence,Russia,China,New START,arms control,ICBM,LGM-30G,Minuteman III,YLGM-182A,GBSD,Northrop Grumman,MIRV">
+  <meta name="robots" content="max-image-preview:large">
+  <meta name="facebook-domain-verification" content="srjhhn19xo0fl94acg5akbnlmd0sp2" />
+  <link rel="canonical" href="https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off">
+
+  
+    <title>
+        Check Out These Rare Infrared Images Of A Minuteman III ICBM Blasting Off
+        
+            
+        
+
+    </title>
+  
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@thedrive">
+  <meta name="twitter:image" content="https://www.thedrive.com/content/2020/09/S6g.jpg?quality=85">
+
+  
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="The Drive">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Check Out These Rare Infrared Images Of A Minuteman III ICBM Blasting Off">
+  <meta property="og:description" content="The Air Force released the images a day after it formally hired Northrop Grumman to build its next ICBMs.">
+  <meta property="og:image" content="https://www.thedrive.com/content/2020/09/S6g.jpg?quality=85">
+  <meta property="og:image:width" content="1920">
+  <meta property="og:image:height" content="1080">
+  <meta property="og:url" content="https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off">
+
+  
+  <meta property="thumbnail" content="https://www.thedrive.com/content/2020/09/S6g.jpg?quality=85">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/fav/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/fav/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/fav/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/fav/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/images/fav/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/fav/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/images/fav/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/fav/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/images/fav/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/images/fav/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/images/fav/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/fav/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/images/fav/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="The Drive"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/images/fav/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="/images/fav/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="/images/fav/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="/images/fav/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="/images/fav/mstile-310x310.png" />
+
+  
+  <meta property="fb:pages" content="829419513804279">
+
+  
+    
+    
+    
+  
+
+  
+  <meta itemprop="keywords" content="nuclear weapons,nuclear deterrence,Russia,China,New START,arms control,ICBM,LGM-30G,Minuteman III,YLGM-182A,GBSD,Northrop Grumman,MIRV">
+<meta itemprop="description" content="The Air Force released the images a day after it formally hired Northrop Grumman to build its next ICBMs.">
+<meta itemprop="url" content="https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off">
+
+
+  <meta itemprop="author" content="Joseph Trevithick">
+
+
+
+  
+  
+
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i|Source+Serif+Pro:400,700" rel="stylesheet">
+
+
+<link rel="stylesheet" href="/prod/styles.css?v=9f35fce269bc8ad67822d680604c5587a56ca856">
+
+
+
+
+
+
+
+  
+<link rel="stylesheet" href="https://use.typekit.net/zgw0ovl.css">
+
+
+  <!-- Scriptless Handling Of Images -->
+  <noscript><style>.image-fade-in{opacity: 1 !important;}</style></noscript>
+
+  
+  <meta name="p:domain_verify" content="1bc53c2e2ba5615b975324f9a18f2795"/>
+
+
+<!-- Segment integration has been removed. Keep global var and data around for easy access. -->
+<script type="text/javascript">
+    window.segment = {"contentAuthorName":"Joseph Trevithick","contentCmsCategory":"The War Zone","contentCmsId":"36298","contentCmsSubCategory":"must read features","contentCmsTerms":["The War Zone","must read features","arms control","china","gbsd","icbm","lgm-30g","minuteman iii","mirv","new start","northrop grumman","nuclear deterrence","nuclear weapons","russia","ylgm-182a"],"contentCmsTags":"arms control|china|gbsd|icbm|lgm-30g|minuteman iii|mirv|new start|northrop grumman|nuclear deterrence|nuclear weapons|russia|ylgm-182a","contentContributorName":null,"contentFeaturedImage":"https://api.thedrive.com/wp-content/uploads/2020/09/S6g.jpg?quality=85","contentHeadline":"Check Out These Rare Infrared Images Of A Minuteman III ICBM Blasting Off","contentModifiedDate":"2020-11-27T23:24:08Z","contentPublishedDate":"2020-09-09T21:05:32Z","contentShownOnPlatform":"own","contentType":"article","path":"/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off","referrer":"https://www.thedrive.com/the-war-zone","search":null,"timeIncApplication":"wordpress","timeIncBrand":"thedrive.com","title":"Check Out These Rare Infrared Images Of A Minuteman III ICBM Blasting Off","url":"https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off","version":"2.0"};
+</script>
+<script>
+    dataLayer.push({"contentAuthorName":"Joseph Trevithick","contentCmsCategory":"The War Zone","contentCmsId":"36298","contentCmsSubCategory":"must read features","contentCmsTerms":["The War Zone","must read features","arms control","china","gbsd","icbm","lgm-30g","minuteman iii","mirv","new start","northrop grumman","nuclear deterrence","nuclear weapons","russia","ylgm-182a"],"contentCmsTags":"arms control|china|gbsd|icbm|lgm-30g|minuteman iii|mirv|new start|northrop grumman|nuclear deterrence|nuclear weapons|russia|ylgm-182a","contentContributorName":null,"contentFeaturedImage":"https://api.thedrive.com/wp-content/uploads/2020/09/S6g.jpg?quality=85","contentHeadline":"Check Out These Rare Infrared Images Of A Minuteman III ICBM Blasting Off","contentModifiedDate":"2020-11-27T23:24:08Z","contentPublishedDate":"2020-09-09T21:05:32Z","contentShownOnPlatform":"own","contentType":"article","path":"/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off","referrer":"https://www.thedrive.com/the-war-zone","search":null,"timeIncApplication":"wordpress","timeIncBrand":"thedrive.com","title":"Check Out These Rare Infrared Images Of A Minuteman III ICBM Blasting Off","url":"https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off","version":"2.0"});
+</script>
+
+
+<script type="text/javascript">
+  (function() {
+    var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+    _sf_async_config.uid = 61351;
+    _sf_async_config.domain = 'thedrive.com';
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.useCanonicalDomain = true;
+    _sf_async_config.sections = 'The War Zone';
+    if ('Joseph Trevithick') {
+        _sf_async_config.authors = 'Joseph Trevithick';
+    }
+
+    function loadChartbeat() {
+        var e = document.createElement('script');
+        var n = document.getElementsByTagName('script')[0];
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//static.chartbeat.com/js/chartbeat.js';;
+        n.parentNode.insertBefore(e, n);
+    }
+    loadChartbeat();
+  })();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
+
+
+<script src="https://js.sentry-cdn.com/af3676fd3815405b84daa2f68a2d55fb.min.js" crossorigin="anonymous"></script>
+<script>
+    Sentry.onLoad(function() {
+      var sentryBeforeSend = function(event, hint) {
+        var errorMsg = hint.originalException ?
+          hint.originalException.message : '';
+
+        // `document.createEvent()` called with an incorrect context.
+        if (/^Illegal invocation/.test(errorMsg)) {
+          try {
+            document.createEvent('FooCustomEvent');
+          } catch {
+            return null;
+          }
+        }
+        // common videojs error
+        if (/AbortError/i.test(errorMsg) && window.videojs !== undefined) {
+          return null;
+        }
+        return event;
+      }
+      var sentryEnvironment = 'production';
+      Sentry.init({
+        environment: sentryEnvironment,
+        sampleRate: sentryEnvironment === 'production' ? 0.1 : 1,
+        whitelistUrls: [/\.thedrive\.com/],
+        ignoreErrors: [
+          /ResizeObserver loop limit exceeded/,
+          // Brightcove \(VideoJS\) error
+          /The play\(\) request was interrupted by a call to pause\(\)/,
+          /platform\.twitter\.com/,
+          /youtube\.com/,
+          /facebook\.com/,
+          // prebid3.23.0.js bug
+          /Cannot read property \'getSlotElementId\' of undefined/,
+          /Blocked a frame with origin/,
+          /Blocked a restricted frame with origin/
+        ],
+        beforeSend: sentryBeforeSend
+    });
+    });
+</script>
+
+
+
+<!-- OneTrust Cookies Consent Notice start for thedrive.com -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="f0e02036-6b31-41de-a4a8-60dc518a443e" ></script>
+<script type="text/javascript">
+  function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for thedrive.com -->
+
+<script>
+/* Various reusable utilities and debugging tools - shared with BV Codebase */
+var utils = {
+    queryString: {},
+    init: function() {
+        // parse and store the query string on init
+        var queryString = this.queryString;
+
+        location.search.slice(1).split('&').forEach(function(pair) {
+            pair = pair.split('=');
+            queryString[pair[0]] = decodeURIComponent(pair[1] || '');
+        });
+
+        // log CLS to console if ?debug_cls=true
+        if (queryString.debug_cls === 'true') {
+            this.logLayoutShift();
+        }
+    },
+    logLayoutShift: function() {
+        var totalShift = 0;
+
+        try {
+            function perfObserver(list) {
+                for (i = 0; i < list.getEntries().length; i++) {
+                    var entry = list.getEntries()[i];
+
+                    totalShift += entry.value;
+                    console.log('Layout shift: ' + entry.value + '. CLS: ' + totalShift + '.');
+                }
+            }
+
+            var po = new PerformanceObserver(perfObserver);
+
+            po.observe({
+                type: 'layout-shift',
+                buffered: true
+            });
+        } catch (e) {
+            console.log('PerformanceObserver not supported.');
+        }
+    },
+
+    setCookie: function(cname, cvalue, exDays) {
+        var d = new Date();
+        var exTime = 2147483647;  // The maximum, can be overridden with exDays
+        var expires;
+        if (typeof exDays !== 'undefined') {
+            d.setTime(d.getTime() + (exDays*24*60*60*1000));
+            exTime = d.toUTCString();
+        }
+        expires = "expires=" + exTime;
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    },
+
+    getCookie: function(cname) {
+        var v = document.cookie.match('(^|;) ?' + cname + '=([^;]*)(;|$)');
+        return v ? v[2] : null;
+    },
+
+    deleteCookie: function(cname) {
+        utils.setCookie(cname, '', -1);
+    },
+
+    /**
+     * Load a script once.
+     *
+     * Use the id to ensure a script is only loaded once.
+     *
+     * @param d (object) The document object.
+     * @param id (str) The id for the script tag.
+     * @param src (str) The source for the script.
+     * @param data (object) Data attributes for the script.
+     * @param el (DOM Node) A DOM node to use to place the script tag. Defaults to using the head.
+     * @param async (bool) True if you want to load the script async
+     */
+    loadScript: function(d, id, src, callback, data, el, async) {
+        // Should use a unique ID so this doesn't collide and fail to load
+        if (document.querySelector('#' + id)) {
+            if (typeof callback === 'function') {
+                callback();
+            }
+            return;
+        }
+
+        var script = d.createElement('script');
+        script.src = src;
+        script.id = id;
+        if (typeof callback === 'function') {
+            script.onload = callback;
+        }
+
+        if (data) {
+            Object.entries(data).forEach(function(attr) {
+                script.setAttribute(attr[0], attr[1]);
+            });
+        }
+
+        el = el || d.getElementsByTagName('head')[0];
+        el.appendChild(script);
+    }
+};
+
+utils.init();
+
+window.BVTests = (function() {
+    var tests = {};
+    var userBuckets = {};
+    var cookiePrefix = 'bv_test__';
+    var debugParam = 'debug_bv_tests';
+    var debugLogs = ('debug_tests' in utils.queryString);
+
+    function _log() {
+        if (!debugLogs) {
+            return;
+        }
+        console.log.apply(console, arguments);
+    }
+
+    function sample(rate) {
+        // Put rate inside our boundaries
+        rate = Math.min(100, Math.max(0, rate));
+        return rate > Math.floor(Math.random() * 100);
+    }
+
+    /**
+     * Create a split test with a given name, bucket the user.
+     *
+     * @param name (str) The test name.
+     * @param config (object) The test config.
+     *
+     * Config object contains bucket names and percentages. Control is not required and will
+     * be ignored. Control will automatically get the leftover values.
+     *
+     * Example:
+     *
+     *   BVTests.create('someTest', {
+     *     bucketA: 5
+     *   });
+     *
+     * In the above example, we create a test called "someTest" where control is 95% and
+     * bucketA is 5%;
+     */
+    function create(name, config) {
+        if (tests[name]) {
+            return;
+        }
+
+        // If we're using a query string, force a bucket even if the bucket doesn't exist yet
+        // Debug param would be something like `debug_bv_tests=testName-testBucket,test2Name-testBucket`
+        var qsTests = utils.queryString[debugParam];
+        if (qsTests) {
+            qsTests = qsTests.split(',');
+            for (var i=0; i<qsTests.length; i++) {
+                var _qsTest = qsTests[i].split('-');
+                if (_qsTest.length === 2 && _qsTest[0] === name) {
+                    userBuckets[name] = _qsTest[1];
+                    utils.setCookie(cookiePrefix + name, _qsTest[1]);
+                    _log('User bucketed from query string param:', name, _qsTest[1]);
+                    return;
+                }
+            }
+        }
+
+        // If the user is already cookied with a valid bucket, use it
+        var cookiedBucket = utils.getCookie(cookiePrefix + name);
+        if (cookiedBucket && (cookiedBucket === 'control' || cookiedBucket in config)) {
+            userBuckets[name] = cookiedBucket;
+            _log('User bucketed from cookie:', name, cookiedBucket);
+            return;
+        }
+
+        tests[name] = config;
+        userBuckets[name] = 'control';  // Default to control
+
+        // Bucket the user
+        for (var bucket in config) {
+            // Skip control, we don't accept a control bucket
+            if (bucket == 'control')  {
+                continue;
+            }
+
+            var rate = parseInt(config[bucket]);
+
+            // If bucket is chosen, assign user to the bucket
+            if (sample(rate)) {
+                _log('user sampled:', rate, name, bucket);
+                userBuckets[name] = bucket;
+                break;
+            }
+        }
+
+        // Set the users bucket as a cookie
+        utils.setCookie(cookiePrefix + name, userBuckets[name]);
+        _log('user bucketed:', name, userBuckets[name]);
+    }
+
+    /**
+     * Build the targeting string based on tests created.
+     *
+     * Example: testName-testBucket,test2Name-testBucket
+     *
+     * TODO: Add validation on name and value. Cannot contain '-' or ','.
+     */
+    function getTargetingValue() {
+        var targeting = [];
+        for (var name in userBuckets) {
+            var value = userBuckets[name];
+            targeting.push(name + '-' + value);
+        }
+        return targeting;
+    }
+
+    return {
+        create: create,
+        getValue: function(name) { return userBuckets[name]; },
+        getUserBuckets: function() { return userBuckets; },
+        getTargetingValue: getTargetingValue
+    }
+})();
+// Test definitions - this can be split out, its here for simplicity.
+// NOTE: All BV tests should be prefixed with "bv_", The Drive tests prefixed with "td_", etc
+(function() {
+    /* Leaving this here as an example:
+    // Ad delay test
+    BVTests.create('bv_adDelay', {
+      delay1: 50,
+    });
+    */
+
+    window.__adDelay = 0;
+    window.AD_EXPERIENCE_GO = 'empire';
+})();
+
+// Start Organic Ads Snippet
+window.__empire_usp_cookie = 'td-opt-out';
+window.empire = window.empire || {};
+window.empire.apps = window.empire.apps || {};
+window.empire.apps.ads = window.empire.apps.ads || {};
+window.empire.apps.ads.config = window.empire.apps.ads.config || {};
+window.empire.apps.ads.targeting = {
+  pageId: "36298",  // need to update CMS to push this ID from the pool for articles reports
+  externalId: "36298",
+  section: 'the-war-zone',
+  keywords: 'arms-control,china,gbsd,icbm,lgm-30g,minuteman-iii,mirv,new-start,northrop-grumman,nuclear-deterrence,nuclear-weapons,russia,ylgm-182a'.split(","),
+  disableSectionReporting: false,
+  disableKeywordReporting: false,
+  tests: BVTests.getTargetingValue()
+};
+
+window.loadEmpireScript = window.loadEmpireScript || function(id, src, async) {
+if (document.getElementById(id)) return;
+var script = document.createElement('script');
+script.id = id;
+script.src = src;
+script.async = async;
+document.getElementsByTagName('head')[0].appendChild(script);
+};
+/* window.loadEmpireScript('gpt', 'https://securepubads.g.doubleclick.net/tag/js/gpt.js', true); */
+window.loadEmpireScript('empire-unit-sdk', 'https://empirecdn.io/assets/sdk/unit-sdk.js?bf700174-deab-491d-b11f-db914bf09e40', true);
+
+  window.__trackadm_usp_cookie = 'td-opt-out';
+  window.getCookie = function(name) {
+      var parts = ("; " + document.cookie).split("; " + name + "=");
+      if (parts.length === 2) {
+          return parts.pop().split(";").shift();
+      } else {
+          return null;
+      }
+  };
+
+  /**
+   * Replace any ccpa cmp functionality on page. The website will implement
+   * the "do not collect" page and set a cookie. We read from that cookie
+   * and implement the cmp api portion.
+   */
+  window.__uspapi = function(cmd, args, callback) {
+      if (cmd === 'getUSPData') {
+          /* Check for our consent cookie, return appropriate consent string
+           * Full consent = '1YN-'
+           * Opt-out = '1YY-'
+           */
+          if (getCookie(window.__trackadm_usp_cookie) === 'on') {
+              /* The user has explicitly opted out */
+              callback({'uspString': '1YY-'}, true);
+          } else {
+              /* Default case is opt-in */
+              callback({'uspString': '1YN-'}, true);
+          }
+      }
+  };
+</script>
+
+
+</head>
+
+  
+  <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <body class="article-page layoutName-article the-war-zone-channel  contributor-channel  ">
+    
+    <header class="page-header" id="nav">
+  <a title="The Drive" class="page-logo" href="/" data-analytics="Header Page Logo"></a>
+
+  <nav class="page-header-nav">
+    <ul>
+      
+        <li><a class="page-header-nav-pinned the-war-zone-nav-item--dark" href="/the-war-zone" data-analytics="Header The War Zone">The War Zone</a></li>
+      
+        <li><a class="page-header-nav-pinned reviews-nav-item--dark" href="/reviews" data-analytics="Header Reviews">Reviews</a></li>
+      
+
+      
+        <!--
+        <li><a class="page-header-nav-pinned shop-nav-item" href="/shop" data-analytics="Header Shop">Shop</a></li>
+        -->
+      
+
+      <ul class="navCategories">
+        
+        <li><a class="page-header-nav-item the-store-nav-item--light" href="https://thestore.thedrive.com" data-analytics="Header The Store">THE STORE</a></li>
+      </ul>
+
+      <li class="page-header-nav-dropdown">
+        <a id="mobile-header-search-button"
+           class="mobile-page-header-search-button"
+           data-analytics="Header Search"
+           href="/search"
+           role="button"
+           aria-label="Search"
+        >
+          <i class="icon icon-search"></i>
+        </a>
+        <a class="page-header-nav-more hide-on-desktop"> 
+          <i class="icon icon-dropdown"></i>
+        </a>
+        <div class="page-header-nav-dropdown-categories">
+          <div class="arrow"></div>
+          <ul>
+            
+              <li><a class="page-header-nav-pinned the-war-zone-nav-item--dark" href="/the-war-zone" data-analytics="Header The War Zone">The War Zone</a></li>
+            
+              <li><a class="page-header-nav-pinned reviews-nav-item--dark" href="/reviews" data-analytics="Header Reviews">Reviews</a></li>
+            
+
+            
+              <!--
+              <li><a class="page-header-nav-pinned shop-nav-item" href="/shop" data-analytics="Header Shop">Shop</a></li>
+              -->
+            
+
+            
+            <li><a class="page-header-nav-item the-store-nav-item--light" href="https://thestore.thedrive.com" data-analytics="Header The Store">THE STORE</a></li>
+            <li class="dropdown-page-header-message">
+              <a class="page-header-message" href="/newsletter" target="_blank" data-analytics="Header Newsletter Signup">Newsletter Signup</a>
+            </li>
+          </ul>
+        </div>
+      </li>
+      
+    </ul>
+  </nav>
+
+  <ul class="page-header-tools">
+    <li>
+      
+      <a class="page-header-message" href="https://us11.list-manage.com/subscribe?u=228bd4d5416080e946054be51&amp;id=51665f3aba" target="_blank" data-analytics="Header Newsletter Signup">Newsletter Signup</a>
+      
+    </li>
+
+    <li>
+      <form id="page-header-search" class="page-header-search" action="/search" method="GET">
+        <input class="page-header-search-field" type="hidden" id="page-header-search-field" name="q" placeholder="" />
+        <button id="header-search-button" class="page-header-search-button" data-analytics="Header Search" aria-label="Search"><i class="icon icon-search"></i></button>
+      </form>
+    </li>
+
+    <li>
+      <ul class="page-header-social">
+        <li>
+          <a class="page-header-social-link js-social-share-button icon icon-facebook-f"
+              href="https://www.facebook.com/thewarzonewire"
+              target="_blank"
+              data-social-type="facebook"
+              data-analytics="Header Facebook"
+              aria-label="Facebook"
+
+          ></a>
+        </li>
+        <li>
+          <a class="page-header-social-link js-social-share-button icon icon-twitter"
+              href="https://twitter.com/thewarzonewire"
+              target="_blank"
+              data-social-type="twitter"
+              data-analytics="Header Twitter"
+              aria-label="Twitter"
+          ></a>
+        </li>
+        <li>
+          <a class="page-header-social-link js-social-share-button icon icon-instagram"
+              href="https://instagram.com/thewarzonewire/"
+              target="_blank"
+              data-social-type="instagram"
+              data-analytics="Header Instagram"
+              aria-label="Instagram"
+          ></a>
+        </li>
+        
+        <li>
+          <a class="page-header-social-link icon icon-rss"
+             href="/rss/all"
+             aria-label="RSS"
+          ></a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</header>
+
+    <main itemprop="mainEntityOfPage">
+      <article id="article" class="article" itemprop="articleBody" >
+        <div class="ad wide-ad" data-ad-type="wideAd" itemscope itemtype="http://schema.org/WPAdBlock">
+  
+</div>
+
+        
+          <div class="article-head  ">
+  
+    
+      <a href="/the-war-zone">
+        <img src="/images/warzone-logo_high-contrast_dark-bg.png" class="channel-logo" />
+      </a>
+      
+  
+
+  
+    <h1 itemprop="headline" class="title">Check Out These Rare Infrared Images Of A Minuteman III ICBM Blasting Off</h1>
+  
+
+  
+
+  
+    <h2 class="dek">The Air Force released the images a day after it formally hired Northrop Grumman to build its next ICBMs.</h2>
+  
+
+  <div class="article-metadata">
+    
+      By
+      
+        <a href="/author/joseph-trevithick" data-analytics="Author Joseph Trevithick">Joseph Trevithick</a>
+      
+    
+    
+      <span itemprop="datePublished" content="2020-09-09T21:05:32.000Z" class="date">September 9, 2020</span>
+      <span itemprop="dateModified" content="2020-11-27T23:24:08.000Z"/>
+    
+  </div>
+
+  <div class="article-tags-wrapper">
+    <ul>
+      
+        <li><a href="/the-war-zone" class="article-tag" data-analytics="Content Tags The War Zone">The War Zone</a></li>
+      
+
+      
+        
+          <li class="non-clickable"><span class="article-tag" data-analytics="Content Tags Must Read Features">Must Read Features</span></li>
+        
+      
+
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+        
+        <div class="news-body">
+          
+  <div class="hero-image">
+    <div class="image-wrapper" style="padding-bottom: calc(1080/1920 * 100%)">
+      <img class="image-fade-in"
+           alt=""
+           src="/content/2020/09/S6g.jpg?quality=85&amp;width=1440&amp;quality=70"
+           srcset="/content/2020/09/S6g.jpg?quality=85&amp;width=1440&amp;quality=70 1x,
+                   /content/2020/09/S6g.jpg?quality=85&amp;width=1920&amp;quality=70 1.5x"
+           onload="this.style.opacity=1"/>
+      <figcaption class="full-bleed-image-credit">USAF</figcaption>
+    </div>
+  </div>
+
+<div class="article-social">
+  <div class="article-social-container">
+    <span class="article-social__share articleShareLink">SHARE</span>
+    <ul class="article-social__items">
+      <li class="article-social__item">
+        <a class="icon icon-twitter articleIcon"
+           data-social="twitter"
+           href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.thedrive.com%2Fthe-war-zone%2F36298%2Fcheck-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off%3Fxid%3Dtwittershare"
+           target="_blank"
+           rel="nofollow"
+           title="Share on Twitter"
+           aria-label="Share on Twitter"
+           data-analytics="Article Share Twitter"
+        ></a>
+      </li>
+      <li class="article-social__item">
+        <a class="icon icon-facebook articleIcon"
+           data-social="facebook"
+           href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedrive.com%2Fthe-war-zone%2F36298%2Fcheck-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off%3Fxid%3Dfbshare"
+           target="_blank"
+           rel="nofollow"
+           title="Share on Facebook"
+           aria-label="Share on Facebook"
+           data-analytics="Article Share Facebook"
+        ></a>
+      </li>
+      <li class="article-social__item">
+        <a class="icon icon-pinterest articleIcon"
+           data-social="pinterest"
+           data-pin-do="buttonPin"
+           data-pin-custom="true"
+           href="https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.thedrive.com%2Fthe-war-zone%2F36298%2Fcheck-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off%3Fxid%3Dpinterestshare"
+           target="_blank"
+           rel="nofollow"
+           title="Share on Pinterest"
+           aria-label="Share on Pinterest"
+           data-analytics="Article Share Pintrest"
+        ></a>
+      </li>
+      <li class="article-social__item">
+        <a class="icon icon-email articleIcon"
+           href="mailto:?subject=Check%20Out%20These%20Rare%20Infrared%20Images%20Of%20A%20Minuteman%20III%20ICBM%20Blasting%20Off&amp;body=https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off?xid=emailshare"
+           target="_blank"
+           rel="nofollow"
+           title="Share via Email"
+           aria-label="Share via Email"
+           data-analytics="Article Share Mail"
+        ></a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+  
+    <div class="articleFragment author-block">
+      <div class="author-module">
+        <div class="authorPic" style="background-image:url('/content/2021/01/jtrevithick-e1611929871528.jpg?quality=85&amp;width=140&amp;quality=50')" title="Joseph Trevithick"></div>
+        <div class="authorInfo">
+          <div class="nameAndLink">
+            <span class="authorName">Joseph Trevithick</span>
+            <a href="/author/joseph-trevithick" class="viewArticlesLink" data-analytics="Author Joseph Trevithick">View Joseph Trevithick's Articles</a>
+          </div>
+          <div class="socialLinks">
+            
+              <a class="authorSocialLink" href="https://www.twitter.com/@FranticGoat"><span class="icon icon-twitter"></span>@FranticGoat</a>
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+
+<div class="has-ad-column">
+  <div class="ad-column">
+    
+    <div class="ad" data-ad-type="colAd"></div>
+    
+  </div>
+
+
+
+
+
+  <div class="articleFragment paragraph">
+  	<html><head></head><body><p>The U.S. Air Force has released rare shots of an <a href="https://www.thedrive.com/the-war-zone/35352/test-of-minuteman-iii-icbm-with-three-reentry-vehicles-sure-seems-like-a-warning-to-russia" rel="noreferrer noopener" target="_blank">LGM-30G Minuteman III</a> intercontinental ballistic missile shortly after launch during a recent test launch from Vandenberg Air Force Base. This comes as the Air Force is celebrating the 50th anniversary of these missiles entering service this year and just a day after formally awarding Northrop Grumman a contract to continue development and eventually build the Minuteman III's replacement, known as the <a href="https://www.thedrive.com/the-war-zone/30602/boeing-fears-end-of-its-work-on-new-air-force-icbm-as-lockheed-wins-reentry-vehicle-deal" rel="noreferrer noopener" target="_blank">Ground-Based Strategic Deterrent</a>.</p><p>Air Force Global Strike Command (AFGSC), which oversees America's intercontinental ballistic missile (ICBM) force, which is presently made up entirely of Minuteman IIIs, released the pictures <a href="https://www.facebook.com/AirForceGlobalStrikeCommand/posts/3722606511121256" rel="noreferrer noopener" target="_blank">on its Facebook page</a> on Sept. 9, 2020. A camera team at Vandenberg captured the infrared images during <a href="https://www.afgsc.af.mil/News/Article-Display/Article/2333167/test-launch-demonstrates-safe-ready-minuteman-iii-deterrent/" rel="noreferrer noopener" target="_blank">a scheduled test launch</a> of an LGM-30G from that base on Sept. 2.&nbsp;</p></body></html>
+  </div>
+
+
+
+
+
+  <div class=related-inline>
+    <div class="arrow left"><i class="icon icon-arrow-previous"></i></div>
+    <div class="arrow right"><i class="icon icon-arrow-next"></i></div>
+    <div class="related-inline-inner">
+      <div class="items">
+        
+          
+            <div class="item">
+              <span class="title"><a href="https://www.thedrive.com/the-war-zone/35352/test-of-minuteman-iii-icbm-with-three-reentry-vehicles-sure-seems-like-a-warning-to-russia" class="link itemLinkTitle">Test Of Minuteman III ICBM With Three Reentry Vehicles Sure Seems Like A Warning To Russia (Updated)</a></span>
+              <span class="byline">By Joseph Trevithick</span>
+              <span class="text"> Posted in <a href="/the-war-zone" class="itemLinkChannel channel">The War Zone</a></span>
+            </div>
+          
+        
+          
+            <div class="item">
+              <span class="title"><a href="https://www.thedrive.com/the-war-zone/30602/boeing-fears-end-of-its-work-on-new-air-force-icbm-as-lockheed-wins-reentry-vehicle-deal" class="link itemLinkTitle">Boeing Fears End Of Its Work On New Air Force ICBM As Lockheed Wins Reentry Vehicle Deal</a></span>
+              <span class="byline">By Joseph Trevithick</span>
+              <span class="text"> Posted in <a href="/the-war-zone" class="itemLinkChannel channel">The War Zone</a></span>
+            </div>
+          
+        
+          
+            <div class="item">
+              <span class="title"><a href="https://www.thedrive.com/the-war-zone/32114/no-the-united-states-doesnt-have-an-automatic-dead-hand-trigger-for-its-icbms" class="link itemLinkTitle">No, The United States Doesn&#039;t Have An Automatic &quot;Dead Hand&quot; Trigger For Its ICBMs</a></span>
+              <span class="byline">By Joseph Trevithick</span>
+              <span class="text"> Posted in <a href="/the-war-zone" class="itemLinkChannel channel">The War Zone</a></span>
+            </div>
+          
+        
+          
+            <div class="item">
+              <span class="title"><a href="https://www.thedrive.com/the-war-zone/14828/usaf-replaces-bulky-tape-cartridges-for-loading-launch-codes-into-icbms" class="link itemLinkTitle">USAF Replaces Bulky Tape Cartridges For Loading Launch Codes Into ICBMs</a></span>
+              <span class="byline">By Joseph Trevithick</span>
+              <span class="text"> Posted in <a href="/the-war-zone" class="itemLinkChannel channel">The War Zone</a></span>
+            </div>
+          
+        
+          
+            <div class="item">
+              <span class="title"><a href="https://www.thedrive.com/the-war-zone/36300/trump-discloses-supposed-existence-of-a-secret-new-nuclear-weapon-system-to-bob-woodward" class="link itemLinkTitle">Trump Discloses Supposed Existence Of A Secret New Nuclear Weapon System To Bob Woodward</a></span>
+              <span class="byline">By Joseph Trevithick and Tyler Rogoway</span>
+              <span class="text"> Posted in <a href="/the-war-zone" class="itemLinkChannel channel">The War Zone</a></span>
+            </div>
+          
+        
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="articleFragment paragraph">
+  	<html><head></head><body><p>"We just had to share these amazing shots of our #MMIII operational test launch on Sept. 2 taken by the optics camera team at Vandenberg Air Force Base!" AFGSC's <a href="https://www.facebook.com/AirForceGlobalStrikeCommand/posts/3722606511121256" rel="noreferrer noopener" target="_blank">brief Facebook post</a> read. "It's not often you see shots like these!"</p></body></html>
+  </div>
+
+
+
+
+<figure class="figure ">
+  <div class="figure-wrapper">
+    
+    <img itemprop="associatedMedia" class="figure-image" src="/content-b/message-editor%2F1599668445008-1.jpg?quality=60" alt="" title="" />
+    
+    <div class="credit">USAF</div>
+    
+  </div>
+  <button class="gallery-button gallery-previous " title-"Previous" arial-label="Previous">
+    <i class="icon icon-arrow-previous"></i>
+  </button>
+  <button class="gallery-button gallery-next " title-"Next" arial-label="Next">
+    <i class="icon icon-arrow-next"></i>
+  </button>
+  <button class="gallery-button gallery-close" title="Close" arial-label="Close">
+    <i class="icon icon-close"></i>
+  </button>
+</figure>
+<figure class="figure ">
+  <div class="figure-wrapper">
+    
+    <img itemprop="associatedMedia" class="figure-image" src="/content-b/message-editor%2F1599668525252-2.jpg?quality=60" alt="" title="" />
+    
+    <div class="credit">USAF</div>
+    
+  </div>
+  <button class="gallery-button gallery-previous " title-"Previous" arial-label="Previous">
+    <i class="icon icon-arrow-previous"></i>
+  </button>
+  <button class="gallery-button gallery-next " title-"Next" arial-label="Next">
+    <i class="icon icon-arrow-next"></i>
+  </button>
+  <button class="gallery-button gallery-close" title="Close" arial-label="Close">
+    <i class="icon icon-close"></i>
+  </button>
+</figure>
+
+
+  <div class="articleFragment paragraph">
+  	<html><head></head><body><p>"Not often" is something of an understatement. Official images of this quality showing one of these missiles in flight are <em>very</em> rare. Typically, after Minuteman III tests, the Air Force only releases pictures and video of the missile leaving the silo and streaking across the sky. Since these launches are almost exclusively conducted at night, the imagery generally does not provide much in the way of detail.&nbsp;</p><p>However, the Air Force had already released video footage of the Sept. 2 test showing more of the initial flight than usual. It's not immediately clear why there has been this apparent push to provide more visuals surrounding this particular launch.</p></body></html>
+  </div>
+
+
+
+
+
+
+
+</div>
+
+<div itemprop="associatedMedia" class="video-youtube">
+  
+    <iframe class="video-youtube__video" src="https://www.youtube.com/embed/rcAkrT4_SNc?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  
+</div>
+
+
+<div class="has-ad-column">
+  <div class="ad-column">
+    
+    <div class="ad" data-ad-type="colAd"></div>
+    
+  </div>
+
+
+
+
+
+  <div class="articleFragment paragraph">
+  	<html><head></head><body><p>The Sept. 2 test involved the launch of a missile with a single reentry vehicle. The reentry vehicle came down approximately 4,200 miles away from Vandenberg at Kwajalein Atoll in the Marshall Islands in the Pacific. "These test launches verify the accuracy and reliability of the ICBM weapon system, providing valuable data to ensure a continued safe, secure and effective nuclear deterrent," the Air Force said of this particular launch.</p><p>This followed a more uncommon test launch in August involving a Minuteman III in a Multiple Independent Reentry Vehicle (MIRV) configuration with three reentry vehicles, as it was originally designed to carry. All operational LGM-30Gs are presently equipped with a single reentry vehicle only as a result of various arms control agreements, which you can read more about in this <a href="https://www.thedrive.com/the-war-zone/35352/test-of-minuteman-iii-icbm-with-three-reentry-vehicles-sure-seems-like-a-warning-to-russia" rel="noreferrer noopener" target="_blank">past <em>War Zone</em> piece</a>.</p><p>2020 does mark 50 years in service for the LGM-30G, the first examples of which were operationally deployed in 1970. The annivarsary has put an additional focus on these missiles. The Minuteman III was the first MIRVed ICBM to enter service anywhere in the world.</p></body></html>
+  </div>
+
+
+
+
+
+
+
+</div>
+
+<div itemprop="associatedMedia" class="video-youtube">
+  
+    <iframe class="video-youtube__video" src="https://www.youtube.com/embed/_JEQGZDdtio?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  
+</div>
+
+
+<div class="has-ad-column">
+  <div class="ad-column">
+    
+    <div class="ad" data-ad-type="colAd"></div>
+    
+  </div>
+
+
+
+
+
+  <div class="articleFragment paragraph">
+  	<html><head></head><body><p>In addition, on Sept. 8, 2020, the Air Force declared Northrop Grumman to be the formal winner of the Ground-Based Strategic Deterrent (GBSD) competition, awarding it a deal <a href="https://www.defense.gov/Newsroom/Contracts/Contract/Article/2340084/" rel="noreferrer noopener" target="_blank">worth more than $13 billion</a>. This company had been the only remaining contestant after Boeing dropped out of the running last year.&nbsp;</p><p>Boeing's decision, along with the factors <a href="https://www.thedrive.com/the-war-zone/30602/boeing-fears-end-of-its-work-on-new-air-force-icbm-as-lockheed-wins-reentry-vehicle-deal" rel="noreferrer noopener" target="_blank">that led up to it</a>, had prompted criticism, including <a href="https://spacenews.com/hasc-chairman-single-contractor-bid-for-new-icbm-is-troubling/" rel="noreferrer noopener" target="_blank">from members of Congress</a> who warned that having just one bidder could lead to increased costs. The total cost of replacing the Minuteman IIIs with new GBSD missiles, which have been tentatively designated YLGM-182As, is estimated to <a href="https://www.armscontrol.org/act/2017-03/news/new-icbm-replacement-cost-revealed" rel="noreferrer noopener" target="_blank">be around $100 billion</a>, including various ancillary spending, such as infrastructure improvements.&nbsp;</p></body></html>
+  </div>
+
+
+
+
+<figure class="figure ">
+  <div class="figure-wrapper">
+    
+    <img itemprop="associatedMedia" class="figure-image" src="/content-b/message-editor%2F1599682756043-gbsd.jpg?quality=60" alt="" title="" />
+    
+    <div class="credit">Northrop Grumman</div>
+    
+      <div class="caption-container">
+        
+        <p>An artist's conception of Northrop Grumman's GBSD ICBM.</p>
+      </div>
+    
+  </div>
+  <button class="gallery-button gallery-previous " title-"Previous" arial-label="Previous">
+    <i class="icon icon-arrow-previous"></i>
+  </button>
+  <button class="gallery-button gallery-next " title-"Next" arial-label="Next">
+    <i class="icon icon-arrow-next"></i>
+  </button>
+  <button class="gallery-button gallery-close" title="Close" arial-label="Close">
+    <i class="icon icon-close"></i>
+  </button>
+</figure>
+
+
+  <div class="articleFragment paragraph">
+  	<html><head></head><body><p>This is just one part of a broader and potentially budget-busting nuclear modernization push across the U.S. military, which you can read about in more detail in this <a href="https://www.thedrive.com/the-war-zone/18688/pentagons-new-nuclear-strategy-is-unsustainable-and-a-handout-to-defense-industry" rel="noreferrer noopener" target="_blank">previous <em>War Zone</em> piece</a>. The ICBM leg of America's nuclear deterrent triad, also known as the "nuclear sponge" since it is meant to "soak up" incoming nuclear strikes, forcing an opponent to commit multiple warheads to each silo and <a href="https://www.thedrive.com/the-war-zone/32114/no-the-united-states-doesnt-have-an-automatic-dead-hand-trigger-for-its-icbms" rel="noreferrer noopener" target="_blank">hardened command bunker</a>, is already, at best, a controversial part of the U.S. defense budget, as <em>The War Zone</em>
+<a href="https://www.thedrive.com/the-war-zone/27535/updating-americas-land-based-ballistic-missile-nuclear-sponge-is-a-100b-waste" rel="noreferrer noopener" target="_blank">has explored in the past</a>.</p><p>All of this also comes as the U.S. government continues to negotiate <a href="https://www.thedrive.com/the-war-zone/26013/russia-says-its-own-new-weapons-are-exempt-after-accusing-u-s-of-violating-nuclear-arms-deal" rel="noreferrer noopener" target="_blank">with its Russian counterparts</a> about the future of the <a href="https://www.thedrive.com/the-war-zone/31215/u-s-inspectors-have-examined-russias-imminently-operational-hypersonic-missile" rel="noreferrer noopener" target="_blank">New Strategic Arms Reduction Treaty</a> (New START), which is set to expire next year if the two sides can't agree on terms to extend it. The United States is looking to bring China, which is expanding its <a href="https://www.thedrive.com/the-war-zone/36149/how-chinas-ballistic-missile-and-nuclear-arsenal-is-ballooning-according-to-the-pentagon" rel="noreferrer noopener" target="_blank">nuclear and ballistic missile</a> capabilities, into any future agreement, as well.&nbsp;</p></body></html>
+  </div>
+
+
+
+
+<figure class="figure ">
+  <div class="figure-wrapper">
+    
+    <img itemprop="associatedMedia" class="figure-image" src="/content-b/message-editor%2F1599683022011-mm3.jpg?quality=60" alt="" title="" />
+    
+    <div class="credit">USAF</div>
+    
+      <div class="caption-container">
+        
+        <p>An LGM-30G Minuteman III missile in its silo.</p>
+      </div>
+    
+  </div>
+  <button class="gallery-button gallery-previous " title-"Previous" arial-label="Previous">
+    <i class="icon icon-arrow-previous"></i>
+  </button>
+  <button class="gallery-button gallery-next " title-"Next" arial-label="Next">
+    <i class="icon icon-arrow-next"></i>
+  </button>
+  <button class="gallery-button gallery-close" title="Close" arial-label="Close">
+    <i class="icon icon-close"></i>
+  </button>
+</figure>
+
+
+  <div class="articleFragment paragraph">
+  	<html><head></head><body><p>The end of New START would open the door for dramatic changes in America's nuclear arsenal, broadly. For the ICBM force, this might lead to re-MIRVing of the Minuteman IIIs or a change to the planned configuration of the GBSD. The latter missiles are slated to begin replacing the existing LGM-30Gs starting in 2029.&nbsp;</p><p>Whatever the case, the Air Force has clearly been particularly keen recently to highlight the existing Minuteman IIIs, including with rarely seen imagery of the missile in flight.</p><p><em>Contact the author: Joe@thedrive.com</em></p></body></html>
+  </div>
+
+
+
+
+<div class="articleFragment">
+  <div class="newsletter-signup the-warzone-wire">
+    <span class="blurb">Don't forget to sign up</span>
+    <div class="newsletter-signup__image"></div>
+    <span class="email-blurb">Your Email Address</span>
+    <div class="signup-form">
+      <form class="submission-form" action="//thedrive.us11.list-manage.com/subscribe/post?u=228bd4d5416080e946054be51&amp;id=51665f3aba" method="post" target="_blank" novalidate>
+        <input type="email" value="" name="EMAIL" placeholder = "E-MAIL">
+
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;"><input type="text" name="b_228bd4d5416080e946054be51_51665f3aba" tabindex="-1" value=""></div>
+        <input type="submit" value="Subscribe" name="subscribe" data-analytics="Article Subscribed">
+      </form>
+    </div>
+  </div>
+</div>
+
+
+
+</div>
+
+
+  <section class="related-content related-content--rich" id="bottom-more-to-read">
+    <div class="title-message">MORE TO READ</div>
+    <ul>
+    
+      
+        <li class="related-article" style="background-image:url('/content/2020/08/mirv-top.jpg?quality=85&amp;width=860&amp;quality=60')">
+          <a href="/the-war-zone/35352/test-of-minuteman-iii-icbm-with-three-reentry-vehicles-sure-seems-like-a-warning-to-russia" class="linkable">
+            <div class="related-flag">RELATED</div>
+            
+              <div class="title">Test Of Minuteman III ICBM With Three Reentry Vehicles Sure Seems Like A Warning To Russia (Updated)</div>
+              <div class="dek">The Air Force currently fields operational Minuteman IIIs with just one warhead each to help meet international treaty obligations.</div>
+            
+            <div class="read-now">READ NOW</div>
+          </a>
+        </li>
+      
+    
+      
+        <li class="related-article" style="background-image:url('/content/2019/10/rvs-top.jpg?quality=85&amp;width=860&amp;quality=60')">
+          <a href="/the-war-zone/30602/boeing-fears-end-of-its-work-on-new-air-force-icbm-as-lockheed-wins-reentry-vehicle-deal" class="linkable">
+            <div class="related-flag">RELATED</div>
+            
+              <div class="title">Boeing Fears End Of Its Work On New Air Force ICBM As Lockheed Wins Reentry Vehicle Deal</div>
+              <div class="dek">Boeing has publicly questioned the Air Force&#039;s contracting processes and a formal protest could lead to delays in the development of the new ICBMs.</div>
+            
+            <div class="read-now">READ NOW</div>
+          </a>
+        </li>
+      
+    
+      
+        <li class="related-article" style="background-image:url('/content/2020/02/launch-top.jpg?quality=85&amp;width=860&amp;quality=60')">
+          <a href="/the-war-zone/32114/no-the-united-states-doesnt-have-an-automatic-dead-hand-trigger-for-its-icbms" class="linkable">
+            <div class="related-flag">RELATED</div>
+            
+              <div class="title">No, The United States Doesn&#039;t Have An Automatic &quot;Dead Hand&quot; Trigger For Its ICBMs</div>
+              <div class="dek">If personnel in a missile alert facility are incapacitated for some reason during a crisis, it doesn&#039;t mean that the missiles launch automatically.</div>
+            
+            <div class="read-now">READ NOW</div>
+          </a>
+        </li>
+      
+    
+      
+        <li class="related-article" style="background-image:url('/content/2017/10/minuteman-2.jpg?quality=85&amp;width=860&amp;quality=60')">
+          <a href="/the-war-zone/14828/usaf-replaces-bulky-tape-cartridges-for-loading-launch-codes-into-icbms" class="linkable">
+            <div class="related-flag">RELATED</div>
+            
+              <div class="title">USAF Replaces Bulky Tape Cartridges For Loading Launch Codes Into ICBMs</div>
+              <div class="dek">The new system is less than half the weight of the older equipment and shifts data onto the missiles much faster.</div>
+            
+            <div class="read-now">READ NOW</div>
+          </a>
+        </li>
+      
+    
+      
+        <li class="related-article" style="background-image:url('/content/2020/09/3232fsd.jpg?quality=85&amp;width=860&amp;quality=60')">
+          <a href="/the-war-zone/36300/trump-discloses-supposed-existence-of-a-secret-new-nuclear-weapon-system-to-bob-woodward" class="linkable">
+            <div class="related-flag">RELATED</div>
+            
+              <div class="title">Trump Discloses Supposed Existence Of A Secret New Nuclear Weapon System To Bob Woodward</div>
+              <div class="dek">Other sources reportedly confirmed that the weapon system does exist, but declined to get into specifics.</div>
+            
+            <div class="read-now">READ NOW</div>
+          </a>
+        </li>
+      
+    
+    </ul>
+  </section>
+
+
+        </div>
+        <div class="clear"></div>
+<div class="expanding-ad-wrapper expanded-ad">
+  
+  <div itemscope itemtype="http://schema.org/WPAdBlock" class="expanding-ad">
+    <div class="ad" data-ad-type="expandingAd"></div>
+  </div>
+  
+</div>
+
+      </article>
+
+      
+        <!--SPOTIM CONVERSATIONS MODULE -->
+      <div class="spot-im-section" id="spot-im-section">
+        <div data-spotim-module="recirculation" data-spot-id="sp_JjtET6Vo"></div>
+<!--        <script async src="https://recirculation.spot.im/spot/sp_JjtET6Vo"></script>-->
+<!--        <script async src="https://launcher.spot.im/spot/sp_JjtET6Vo"-->
+<!--            data-spotim-module="spotim-launcher"-->
+<!--            data-post-url="https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off"-->
+<!--            data-post-id="article_36298"></script>-->
+      </div>
+      <script>
+      utils.loadScript(
+              document,
+              'spot-im-recirc',
+              'https://recirculation.spot.im/spot/sp_JjtET6Vo',
+              null,
+              null,
+              document.getElementById('spot-im-section'),
+              true
+      );
+      utils.loadScript(
+              document,
+              'spot-im-module',
+              'https://launcher.spot.im/spot/sp_JjtET6Vo',
+              null,
+              {
+                'data-spotim-module': 'spotim-launcher',
+                'data-post-id': 'article_36298',
+                'data-post-url': 'https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off'
+              },
+              document.getElementById('spot-im-section'),
+              true
+      );
+      </script>
+      
+    </main>
+    <footer class="footer footer__border" itemscope itemtype="http://schema.org/WPFooter">
+  <div class="flex footer__content">
+    <!--
+    <div class="flex flex-item footer__item shop-image">
+      <h2 class="flex-item footer__item-header">
+          Shop the drive
+        </h2>
+      <p class="flex-item footer__item-dek">
+        Tools to help you design, research and <br /> find the right car for you.
+      </p>
+      <a class="flex-item btn btn--sm footer__item-button" href="/shop" target="_blank" data-analytics="Banner Shop">SHOP</a>
+    </div>
+    -->
+    
+
+    <div class="flex flex-item footer__item newsletter-image">
+        <p class="flex-item footer__item-header">
+          Sign up for our newsletter
+        </p>
+        <p class="flex-item footer__item-dek">
+          Technology, performance and design delivered to your inbox.
+        </p>
+        <a class="flex-item btn btn--sm footer__item-button" href="/newsletter" target="_blank" data-analytics="Banner Newsletter Signup">SIGN UP</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="flex flex--column footer__logo">
+    <div class="flex-item footer__logo-item">
+      <a href="/"><img class="footer__logo-image" src="/images/the-drive_site-logo.png" alt="the drive site logo"></a>
+    </div>
+    <div class="flex-item footer__logo-item">
+      <ul class="footer-social">
+        <li>
+          <a class="icon icon--circled icon-facebook-f"
+              href="https://www.facebook.com/thedrive"
+              target="_blank"
+              data-social-type="facebook"
+              data-analytics="Footer Facebook"
+              aria-label="Facebook"
+          ></a>
+        </li>
+        <li>
+          <a class="icon icon--circled icon-twitter"
+              href="https://twitter.com/thedrive"
+              target="_blank"
+              data-social-type="twitter"
+              data-analytics="Footer Twitter"
+              aria-label="Twitter"
+          ></a>
+        </li>
+        <li>
+          <a class="icon icon--circled icon-instagram"
+              href="https://instagram.com/thedrive/"
+              target="_blank"
+              data-social-type="instagram"
+              aria-label="Instagram"
+              data-analytics="Footer Instagram"
+          ></a>
+        </li>
+        <li>
+          <a class="icon icon--circled icon-pinterest"
+              href="https://www.pinterest.com/thedrive0042/"
+              target="_blank"
+              data-social-type="pinterest"
+              aria-label="Pinterest"
+              data-analytics="Footer Pintrest"
+          ></a>
+        </li>
+        <li>
+          <a class="icon icon--circled icon-rss"
+             href="/rss/all"
+             aria-label="RSS"
+          ></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="flex footer__border footer__links">
+    <div class="flex-item footer__links-container">
+      <ul class="flex footer__links-list">
+        <li>
+          <a href="/team" data-analytics="Footer Links - The Drive Team">The Drive Team</a>
+        </li>
+        <li>
+          <a href="/rentals/rv" data-analytics="Footer Links - RV Rentals">RV Rentals</a>
+        </li>
+        <li>
+          <!-- OneTrust Cookies Settings button start -->
+          <button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button>
+          <!-- OneTrust Cookies Settings button end -->
+        </li>
+        <li>
+          <a href="https://thedrivemedia.com/privacy/" data-analytics="Footer Links - Privacy Policy">Privacy Policy</a>
+        </li>
+        <li>
+          <a href="https://thedrivemedia.com/privacy/#california" data-analytics="Footer Links - Your California Privacy Policy">Your California Privacy Rights</a>
+        </li>
+        <li>
+          <a href="https://brooklinemedia.com/terms-and-conditions-of-use/" data-analytics="Footer Links - Terms of Service">Terms of Service</a>
+        </li>
+        <li>
+          <a href="mailto:feedback@thedrive.com" data-analytics="Footer Links - Contact Us">Contact Us</a>
+        </li>
+      </ul>
+    </div>
+    <div class="flex-item footer__copyright">
+      <p class="footer__copyright-text">&copy; <script>document.write(new Date().getFullYear())</script>  <a href="https://brooklinemedia.com/" itemprop="copyrightHolder">Brookline Media Inc.</a> All Rights Reserved.</p>
+      <p class="footer__copyright-notices">We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.</p>
+    </div>
+  </div>
+  <div class="page-footer-end"></div>
+
+</footer>
+
+    
+    <script type="application/ld+json">
+    [
+        {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off"
+            },
+            "headline": "Check Out These Rare Infrared Images Of A Minuteman III ICBM Blasting Off",
+            "image": {
+                "@context": "http://schema.org",
+                "@type": "ImageObject",
+                "url": "/content/2020/09/S6g.jpg?quality=85&amp;quality=100",
+                "name": "S6g",
+                "width": "1920",
+                "height": "1080"
+            },
+            "datePublished": "2020-09-09T21:05:32+00:00",
+            "dateModified": "2020-11-27T23:24:08+00:00",
+            "author": {
+                "@type": "Person",
+                "name": "Joseph Trevithick"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "The Drive",
+                "url": "https://www.thedrive.com",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.thedrive.com/images/the-drive_site-logo.png"
+                }
+            }
+        },
+        {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "url": "/content/2020/09/S6g.jpg?quality=85&amp;quality=100",
+            "name": "S6g",
+            "width": "1920",
+            "height": "1080"
+        }
+        
+        ,{
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "The Drive",
+                    "item": "https://www.thedrive.com"
+                }
+                ,
+                
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "The War Zone",
+                    "item": "https://www.thedrive.com/the-war-zone"
+                }
+                ,
+                
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Check Out These Rare Infrared Images Of A Minuteman III ICBM Blasting Off",
+                    "item": "https://www.thedrive.com/the-war-zone/36298/check-out-these-remarkable-infrared-images-of-minuteman-iii-ibcm-blasting-off"
+                }
+                
+                
+            ]
+        }
+        
+        
+        
+    ]
+</script>
+    
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script async src="https://empirecdn.io/assets/prebid.6.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/prod/scripts.js?v=9f35fce269bc8ad67822d680604c5587a56ca856"></script>
+
+
+
+<script src="https://api.limbik.com/static/limbik-video.js" data-accountId="-L4mXzCBTjjYOvEjqm1N" async></script>
+
+
+<div id="amzn-assoc-ad-f545cb86-96ab-4c6e-a754-41f45d8a2104"></div>
+<script async
+        src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=f545cb86-96ab-4c6e-a754-41f45d8a2104"></script>
+
+<script type="text/javascript">
+    var vglnk = {key: 'fe0dc93467f279b69971c287c26cd0e8'};
+    (function (d, t) {
+        var s = d.createElement(t);
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//cdn.viglink.com/api/vglnk.js';
+        var r = d.getElementsByTagName(t)[0];
+        r.parentNode.insertBefore(s, r);
+    }(document, 'script'));
+</script>
+
+  </body>
+</html>
