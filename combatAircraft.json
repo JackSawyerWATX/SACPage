@@ -1,0 +1,112 @@
+[
+   {
+        "id":                           1,
+        "category":                      "Combat Aircraft",
+        "name":                         "Invader",
+        "numdesi":                      "A-26",
+        "altnumdesi":                   "RB-26",
+        "manufacturer":                 "Douglass Aircraft Company",
+        "role":                         "Multi-role",
+        "numberbuilt":                  "2503"
+    },
+    {
+        "id":                           2,
+        "category":                     "Combat Aircraft",   
+        "name":                         "Lancer",
+        "numdesi":                      "B-1",
+        "altnumdesi":                   "B-1A, B-1B",
+        "manufacturer":                 "North American/Rockwell International",
+        "role":                         "SuperSonic Strategic Heavy Bomber",
+        "numberbuilt":                  "104"
+    },
+    {
+        "id":                           3,
+        "category":                     "Combat Aircraft",
+        "name":                         "Flying Fortress",
+        "numdesi":                      "B-17",
+        "altnumdesi":                   "RB-17G",
+        "manufacturer":                 "Boeing",
+        "role":                         "Heavy Bomber",
+        "numberbuilt":                  "12731"
+    },
+    {
+        "id":                           4,
+        "category":                     "Combat Aircraft",
+        "name":                         "Super Fortress",
+        "numdesi":                      "B-29",
+        "altnumdesi":                   "null",
+        "manufacturer":                 "Boeing",
+        "role":                         "Strategic Heavy Bomber",
+        "numberbuilt":                  "3970"
+    },
+    {
+        "id":                           5,
+        "category":                     "Combat Aircraft",
+        "name":                         "Peacemaker",
+        "numdesi":                      "B-36",
+        "altnumdesi":                   "null",
+        "manufacturer":                 "Convair",
+        "role":                         "Strategic Heavy Bomber",
+        "numberbuilt":                  "384"
+    },
+    {
+        "id":                           6,
+        "category":                     "Combat Aircraft",
+        "name":                         "Tornato",
+        "numdesi":                      "B-45",
+        "altnumdesi":                   "null",
+        "manufacturer":                 "North American Aviation",
+        "role":                         "Strategic Bomber",
+        "numberbuilt":                  "143"
+    },
+    {
+        "id":                           7,
+        "category":                     "Combat Aircraft",
+        "name":                         "Stratojet",
+        "numdesi":                      "B-47",
+        "altnumdesi":                   "null",
+        "manufacturer":                 "Boeing",
+        "role":                         "Strategic Bomber, Aerial Reconnaissance",
+        "numberbuilt":                  "2042"
+    },
+    {
+        "id":                           8,
+        "category":                     "Combat Aircraft",
+        "name":                         "Super Fortress",
+        "numdesi":                      "B-50",
+        "altnumdesi":                   "B-54",
+        "manufacturer":                 "Boeing",
+        "role":                         "Strategic Bomber",
+        "numberbuilt":                  "370"
+    },
+    {
+        "id":                           9,
+        "category":                     "Combat Aircraft",
+        "name":                         "StratoFortress",
+        "numdesi":                      "B-52",
+        "altnumdesi":                   "null",
+        "manufacturer":                 "Boeing",
+        "role":                         "Strategic Bomber",
+        "numberbuilt":                  "744"
+    },
+    {
+        "id":                           10,
+        "category":                     "Combat Aircraft",
+        "name":                         "Canberra",
+        "numdesi":                      "B-57",
+        "altnumdesi":                   "RB-57D",
+        "manufacturer":                 "Martin",
+        "role":                         "Tactical Bomber",
+        "numberbuilt":                  "403"
+    },
+    {
+        "id":                           11,
+        "category":                     "Combat Aircraft",
+        "name":                         "Hustler",
+        "numdesi":                      "B-58",
+        "altnumdesi":                   "null",
+        "manufacturer":                 "Convair",
+        "role":                         "Supersonic Strategic Bomber",
+        "numberbuilt":                  "116"
+    }
+]
