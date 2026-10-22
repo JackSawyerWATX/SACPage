@@ -1,25 +1,37 @@
-var cookieDiv = document.querySelector(".popup")
+const homeSearchForm = document.querySelector(".site-search");
+const catalogSearchForm = document.querySelector(".catalog-search");
+const searchInput = document.querySelector("#searchbar");
 
-function accept() {
-    cookieDiv.remove();
+if (homeSearchForm) {
+    const searchableCards = document.querySelectorAll("[data-searchable]");
+
+    homeSearchForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+
+        const query = searchInput.value.trim().toLowerCase();
+
+        searchableCards.forEach((card) => {
+            const matches = !query || card.dataset.searchable.toLowerCase().includes(query);
+            card.hidden = !matches;
+        });
+
+        document.querySelector("#forces").scrollIntoView({ behavior: "smooth", block: "start" });
+    });
 }
 
-var search = 
-function search() {
+if (catalogSearchForm) {
+    const catalogItems = document.querySelectorAll(".catalog-section > div, .catalog-section > article");
 
-}
+    catalogSearchForm.addEventListener("submit", (event) => {
+        event.preventDefault();
 
-function search_element() {
-    let input = document.getElementById('searchbar').value
-    input=input.toLowerCase();
-    let x = document.getElementsByClassName('element');
-      
-    for (i = 0; i < x.length; i++) { 
-        if (!x[i].innerHTML.toLowerCase().includes(input)) {
-            x[i].style.display="none";
-        }
-        else {
-            x[i].style.display="list-item";                 
-        }
-    }
+        const query = searchInput.value.trim().toLowerCase();
+
+        catalogItems.forEach((item) => {
+            const matches = !query || item.textContent.toLowerCase().includes(query);
+            item.hidden = !matches;
+        });
+
+        document.querySelector(".catalog-section").scrollIntoView({ behavior: "smooth", block: "start" });
+    });
 }
